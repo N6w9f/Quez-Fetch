@@ -1,0 +1,248 @@
+[
+  [
+    {
+      "title": "Which HTML tag is used to create a hyperlink?",
+      "answer_1": "<href>",
+      "answer_2": "<link>",
+      "answer_3": "<a>",
+      "answer_4": "<hyper>",
+      "correct_answer": "<a>"
+    },
+    {
+      "title": "What does HTML stand for?",
+      "answer_1": "Home Tool Markup Language",
+      "answer_2": "Hyperlinks and Text Markup Language",
+      "answer_3": "High Tech Markup Language",
+      "answer_4": "Hyper Text Markup Language",
+      "correct_answer": "Hyper Text Markup Language"
+    },
+    {
+      "title": "Which HTML tag is used to define an unordered list?",
+      "answer_1": "<list>",
+      "answer_2": "<ol>",
+      "answer_3": "<ul>",
+      "answer_4": "<li>",
+      "correct_answer": "<ul>"
+    },
+    {
+      "title": "What is the correct HTML for creating a hyperlink to another website?",
+      "answer_1": "<href=\"http://www.example.com\">link text</href>",
+      "answer_2": "<link src=\"http://www.example.com\">link text</link>",
+      "answer_3": "<a href=\"http://www.example.com\">link text</a>",
+      "answer_4": "<hyperlink=\"http://www.example.com\">link text</hyperlink>",
+      "correct_answer": "<a href=\"http://www.example.com\">link text</a>"
+    },
+    {
+      "title": "Which HTML tag is used to define a table row?",
+      "answer_1": "<td>",
+      "answer_2": "<tr>",
+      "answer_3": "<th>",
+      "answer_4": "<table>",
+      "correct_answer": "<tr>"
+    },
+    {
+      "title": "What is the correct HTML for inserting an image?",
+      "answer_1": "<img src=\"image.jpg\" alt=\"MyImage\">",
+      "answer_2": "<image src=\"image.jpg\" alt=\"MyImage\">",
+      "answer_3": "<img href=\"image.jpg\" alt=\"MyImage\">",
+      "answer_4": "<image href=\"image.jpg\" alt=\"MyImage\">",
+      "correct_answer": "<img src=\"image.jpg\" alt=\"MyImage\">"
+    },
+    {
+      "title": "Which character is used to indicate an end tag?",
+      "answer_1": "*",
+      "answer_2": "/",
+      "answer_3": "<",
+      "answer_4": ">",
+      "correct_answer": "/"
+    },
+    {
+      "title": "What is the correct HTML for creating a hyperlink?",
+      "answer_1": "<a>http://www.example.com</a>",
+      "answer_2": "<a href=\"http://www.example.com\">Click here</a>",
+      "answer_3": "<hyperlink>http://www.example.com</hyperlink>",
+      "answer_4": "<link>http://www.example.com</link>",
+      "correct_answer": "<a href=\"http://www.example.com\">Click here</a>"
+    },
+    {
+      "title": "Which HTML tag is used to define a paragraph?",
+      "answer_1": "<p>",
+      "answer_2": "<para>",
+      "answer_3": "<pt>",
+      "answer_4": "<paragraph>",
+      "correct_answer": "<p>"
+    },
+    {
+      "title": "What does the 'DOCTYPE' declaration do?",
+      "answer_1": "Defines the document language",
+      "answer_2": "Defines the document title",
+      "answer_3": "Defines the document type",
+      "answer_4": "Defines the document character encoding",
+      "correct_answer": "Defines the document type"
+    }
+  ],
+  [
+    {
+      "title": "Which property is used to change the font size of an element in CSS?",
+      "answer_1": "font-size",
+      "answer_2": "text-size",
+      "answer_3": "size",
+      "answer_4": "font-style",
+      "correct_answer": "font-size"
+    },
+    {
+      "title": "What does CSS stand for?",
+      "answer_1": "Cascading Styling System",
+      "answer_2": "Creative Styling Syntax",
+      "answer_3": "Computer Style Sheets",
+      "answer_4": "Cascading Style Sheets",
+      "correct_answer": "Cascading Style Sheets"
+    },
+    {
+      "title": "Which CSS property is used to control the spacing between lines of text?",
+      "answer_1": "line-spacing",
+      "answer_2": "text-spacing",
+      "answer_3": "line-height",
+      "answer_4": "text-line",
+      "correct_answer": "line-height"
+    },
+    {
+      "title": "What is the correct CSS syntax for making the text of all <h1> elements red?",
+      "answer_1": "h1 {text-color: red;}",
+      "answer_2": "h1 {color: red;}",
+      "answer_3": "h1 {font-color: red;}",
+      "answer_4": "h1 {red: color;}",
+      "correct_answer": "h1 {color: red;}"
+    },
+    {
+      "title": "Which property is used to set the background image of an element in CSS?",
+      "answer_1": "background",
+      "answer_2": "background-image",
+      "answer_3": "image",
+      "answer_4": "background-src",
+      "correct_answer": "background-image"
+    },
+    {
+      "title": "Which CSS property is used to create rounded corners on an element?",
+      "answer_1": "border-style",
+      "answer_2": "corner-radius",
+      "answer_3": "border-radius",
+      "answer_4": "round-corner",
+      "correct_answer": "border-radius"
+    },
+    {
+      "title": "What is the correct CSS syntax for centering a block-level element horizontally?",
+      "answer_1": "margin: auto;",
+      "answer_2": "text-align: center;",
+      "answer_3": "align: center;",
+      "answer_4": "padding: auto;",
+      "correct_answer": "margin: auto;"
+    },
+    {
+      "title": "Which property is used to control the spacing between elements?",
+      "answer_1": "padding",
+      "answer_2": "margin",
+      "answer_3": "border-spacing",
+      "answer_4": "spacing",
+      "correct_answer": "margin"
+    },
+    {
+      "title": "What does the 'z-index' property in CSS control?",
+      "answer_1": "Text size",
+      "answer_2": "Element positioning",
+      "answer_3": "Font style",
+      "answer_4": "Layering of elements",
+      "correct_answer": "Layering of elements"
+    },
+    {
+      "title": "What CSS property is used to make an element invisible without affecting the layout?",
+      "answer_1": "visibility",
+      "answer_2": "display",
+      "answer_3": "opacity",
+      "answer_4": "hidden",
+      "correct_answer": "visibility"
+    }
+  ],
+  [
+    {
+      "title": "Which of the following is not a valid way to declare a JavaScript variable?",
+      "answer_1": "let",
+      "answer_2": "const",
+      "answer_3": "define",
+      "answer_4": "var",
+      "correct_answer": "var"
+    },
+    {
+      "title": "What will be the output of the following code snippet?\nconsole.log(typeof NaN);",
+      "answer_1": "\"number\"",
+      "answer_2": "\"NaN\"",
+      "answer_3": "\"undefined\"",
+      "answer_4": "\"string\"",
+      "correct_answer": "\"number\""
+    },
+    {
+      "title": "What does the '===' operator do in JavaScript?",
+      "answer_1": "Compares two values for equality, allowing type coercion",
+      "answer_2": "Compares two values for equality, without type coercion",
+      "answer_3": "Assigns a value to a variable",
+      "answer_4": "Checks if a value exists",
+      "correct_answer": "Compares two values for equality, without type coercion"
+    },
+    {
+      "title": "Which built-in method in JavaScript is used to remove the last element from an array and return that element?",
+      "answer_1": "pop()",
+      "answer_2": "slice()",
+      "answer_3": "splice()",
+      "answer_4": "shift()",
+      "correct_answer": "pop()"
+    },
+    {
+      "title": "What is the correct syntax to comment out multiple lines in JavaScript?",
+      "answer_1": "<!-- comment -->",
+      "answer_2": "// comment",
+      "answer_3": "/* comment */",
+      "answer_4": "# comment",
+      "correct_answer": "/* comment */"
+    },
+    {
+      "title": "Which of the following statements about JavaScript's 'null' value is true?",
+      "answer_1": "It represents an empty or undefined value",
+      "answer_2": "It represents a numeric value",
+      "answer_3": "It represents a string value",
+      "answer_4": "It represents an object value",
+      "correct_answer": "It represents an empty or undefined value"
+    },
+    {
+      "title": "What is the purpose of the 'parseInt()' function in JavaScript?",
+      "answer_1": "To round a number to the nearest integer",
+      "answer_2": "To convert a string to an integer",
+      "answer_3": "To check if a value is not a number",
+      "answer_4": "To generate a random integer",
+      "correct_answer": "To convert a string to an integer"
+    },
+    {
+      "title": "What will be the result of the following expression in JavaScript?\n10 + '20'",
+      "answer_1": "30",
+      "answer_2": "1020",
+      "answer_3": "10200",
+      "answer_4": "Error",
+      "correct_answer": "1020"
+    },
+    {
+      "title": "What does the 'typeof' operator return for a function in JavaScript?",
+      "answer_1": "\"function\"",
+      "answer_2": "\"object\"",
+      "answer_3": "\"undefined\"",
+      "answer_4": "\"string\"",
+      "correct_answer": "\"function\""
+    },
+    {
+      "title": "What is the correct way to access the length of a JavaScript array?",
+      "answer_1": "array.indexOf",
+      "answer_2": "array.size",
+      "answer_3": "array.length",
+      "answer_4": "array.elements()",
+      "correct_answer": "array.length"
+    }
+  ]
+]
